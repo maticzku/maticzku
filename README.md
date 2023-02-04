@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-03a01f099e.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/728344017724637301/1071274936213188648/tiny-developers-programming-website-internet-platform-flat-vector-illustration-cartoon-programmers-near-screen-with-open-code-script-software-development-digital-technology-concept_74855-10168.png" width="100"/>
 </div>
 <h1 align="center">
   Hi there
